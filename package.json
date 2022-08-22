@@ -1,0 +1,9 @@
+{
+  "name": "my-eletron-app",
+  "version": "0.0.1",
+  "description": "Estudos sobre EletronJS - Framework para aplicações desktop",
+  "main": "main.js",
+  "repository": "https://github.com/MayronSouza/my-eletron-app.git",
+  "author": "Mayron Souza",
+  "license": "MIT"
+}
